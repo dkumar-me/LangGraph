@@ -11,7 +11,7 @@ Python concepts used extensively in LangGraph
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/10151c6f-b371-4db3-80f6-ab12bbeec698" /><br><br>
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/3575e4bd-f40c-4fae-8fc5-1c20ec704b41" /><br><br>
 
-# Elements <br>
+# LangGraph Elements <br>
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/2ef2aa59-aba4-473e-9c00-43189379fb01" /><br><br>
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/674f6e48-8e70-4f71-93d1-8ac6b72990f4" /><br><br>
 <img width="500" height="200" alt="image" src="https://github.com/user-attachments/assets/959704fc-0871-4c9f-8ac9-9df7e0ab30cc" /><br><br>
